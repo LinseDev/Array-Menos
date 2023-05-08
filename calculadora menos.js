@@ -1,0 +1,1 @@
+const array = [1 , 70 , 800 , 1090]; const MenorValor = Math.min (...array); console.log(MenorValor);
